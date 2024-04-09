@@ -1,0 +1,15 @@
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.csproj.AssemblyReference.cache
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.Properties.Resources.resources
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.csproj.GenerateResource.cache
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.csproj.CoreCompileInputs.cache
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\bin\Debug\asm2.kk.exe.config
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\bin\Debug\asm2.kk.exe
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\bin\Debug\asm2.kk.pdb
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\bin\Debug\System.Data.SqlClient.dll
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\bin\Debug\System.Data.SqlClient.xml
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.csproj.CopyComplete
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.exe
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.pdb
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.Attendance.resources
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.Login.resources
+C:\Users\phamq\source\repos\asm2.kk\asm2.kk\obj\Debug\asm2.kk.StudentCourse.resources
